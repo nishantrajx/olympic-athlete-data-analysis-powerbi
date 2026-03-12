@@ -352,7 +352,7 @@ Important findings from the analysis include:
 olympic-data-analysis-powerbi
 │
 ├── data
-│   └── athlete_events.csv
+│   └── athlete_events.xlsx
 │
 ├── dashboard
 │   └── olympic_dashboard.pbix
