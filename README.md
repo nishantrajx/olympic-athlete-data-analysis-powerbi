@@ -14,6 +14,32 @@ The analysis focuses on identifying **top-performing countries, athlete particip
 
 ---
 
+📊 Analytical Questions Answered
+
+The dashboard was designed to answer the following analytical questions:
+
+1. How has athlete participation evolved across Olympic years?
+
+The analysis examines participation trends across Summer and Winter Olympics to understand how global engagement in the Olympic Games has expanded over time.
+
+2. Which countries have achieved the highest medal performance?
+
+The dashboard identifies top-performing countries based on total medal counts and medal type distribution.
+
+3. How are medals distributed across Gold, Silver, and Bronze categories?
+
+This analysis evaluates the proportional distribution of medals across categories to understand competition outcomes.
+
+4. What is the typical age range of medal-winning athletes?
+
+The analysis explores the age distribution of medal-winning athletes to identify peak performance age groups.
+
+5. Which athletes have achieved the highest number of Olympic medals?
+
+This objective identifies top athletes based on total medal counts across Olympic events.
+
+---
+
 # 📂 Dataset
 
 The dataset used in this project contains historical Olympic records.
