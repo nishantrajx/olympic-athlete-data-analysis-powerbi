@@ -228,6 +228,12 @@ These measures dynamically update based on slicer selections.
 
 The dashboard explores several analytical objectives.
 
+![Dashboard](images/dashboard.png)
+
+![Dashboard 2](images/dashboard_2.png)
+
+![Dashboard 3](images/dashboard_3.png)
+
 ---
 
 # 1️⃣ Athlete Participation Trends
@@ -235,6 +241,8 @@ The dashboard explores several analytical objectives.
 **Objective**
 
 Analyze how athlete participation has changed over time.
+
+![Participation Trend](images/participation_trend.png)
 
 **Visualization**
 
@@ -258,6 +266,8 @@ Athlete participation has steadily increased over time, with **Summer Olympics s
 
 Identify countries with the highest Olympic medal counts.
 
+![Top Countries](images/top_countries.png)
+
 **Visualization**
 
 Stacked Bar Chart
@@ -280,6 +290,8 @@ Countries such as **United States, Russia, Germany, and Great Britain consistent
 
 Analyze the distribution of Gold, Silver, and Bronze medals.
 
+![Medal Distribution](images/medal_distribution.png)
+
 **Visualization**
 
 Donut Chart
@@ -296,6 +308,8 @@ The distribution of medals across categories is relatively balanced, reflecting 
 
 Understand how athlete age influences medal performance.
 
+![Age analysis](images/age_analysis.png)
+
 **Visualization**
 
 Stacked Column Chart
@@ -311,6 +325,8 @@ Athletes between **20–30 years old win the majority of Olympic medals**, indic
 **Objective**
 
 Identify athletes with the highest medal counts.
+
+![Top Athletes](images/top_athletes.png)
 
 **Visualization**
 
@@ -330,6 +346,8 @@ The dashboard includes several slicers for dynamic analysis:
 * Season (Summer / Winter)
 * Gender
 * Event
+
+  ![Slicer](images/slicer.png)
 
 These filters allow users to **explore Olympic data interactively and perform customized analysis**.
 
@@ -365,6 +383,14 @@ olympic-data-analysis-powerbi
 │   ├── medal_distribution.png
 │   ├── top_countries.png
 │   └── age_analysis.png
+│   └── slicer.png
+│   └── KPI_cards.png
+│   └── dashboard.png
+│   └── dashboard_2.png
+│   └── dashboard_3.png
+│   └── page_4.png
+│   └── page_5.png
+│   └── page_6.png
 │
 └── README.md
 ```
